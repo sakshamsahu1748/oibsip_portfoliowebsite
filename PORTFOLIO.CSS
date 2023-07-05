@@ -1,0 +1,117 @@
+
+@media (max-width:468px){
+    .co{
+        display: inline;
+    }
+    .footer {
+        display: block;
+    }
+    .z{
+        display: block;
+    }
+    .column{
+        display: inline;
+    }
+    
+    .cert{
+        margin-bottom: 50px;
+    }
+    .videos{display: block;}
+}
+
+#nm{font-family: 'Bruno Ace SC', cursive;font-size: 4rem;}
+#nma{font-family: 'Cinzel', serif;}
+.sa{background-image: url("1.jpg");background-repeat: no-repeat;background-size: cover;background-attachment: fixed;}
+.aaa li{text-align:center}
+.NAVBAR{background-color:   rgb(0, 3, 3)}
+.NAVBAR UL{overflow: auto;margin: auto;}
+.NAVBAR LI{float: left;list-style: none;padding: 10PX;}
+.NAVBAR LI A{text-decoration: none; color: rgb(64, 148, 148);font-size: 20px;font-family: 'Josefin Sans', sans-serif;}
+.NAVBAR LI A:hover{text-decoration: underline; color: rgb(227, 252, 252);}
+.Q H1{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: 70PX;}
+.p{color: burlywood;font-size: 18px;}
+.sm{text-align: center ;padding: 50px;margin-top: -50px;}
+.q h1{color: cadetblue;}
+.btn1{padding: 5px;background-color: aqua ;border-radius: 10PX}
+.btn1 a{text-decoration: none;color:rgb(7, 27, 27)}
+.btn1 a:hover{color: rgb(124, 124, 175);}
+.cerb{background-image: url("work.jpeg");text-align: center;background-attachment: fixed;background-repeat: no-repeat;background-size: cover;}
+.CERT P{color: bisque; font-size: 25PX;}
+.CERT A {background-color:cadetblue;padding: 5PX;color: black; text-decoration: none;font-family: 'Cinzel', serif;}
+.DF{color: rgb(9, 9, 61);background-color:#6394ed;padding: 5px ;font-size: 40px;text-decoration: underline;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.cerb1{background-color: rgba(0, 0, 0, 0.677);}
+.z{display: flex;}
+.column{display: flex;justify-content: center;justify-content: space-around;}
+.co{display: flex;justify-content: center;justify-content: space-around}
+.CO H2{color: rgb(29, 192, 221);font-size: 28PX;font-family: 'Bruno Ace SC', cursive;}
+.CO P{color: rgb(134, 147, 197);font-size: 17PX;}
+.FA{color: #ffda60;}
+.skills{background-color: #215267;padding: 5px;border-radius: 10px;}
+
+.footer{display: inline;}
+.FOOT li {display: inline;padding:10px;font-size: 26PX;}
+.CA H1  {color: azure;text-decoration: underline;font-family: 'Bruno Ace SC', cursive;}
+.CA SPAN{color: aqua;font-family: 'Bruno Ace SC', cursive;}
+.footer{background-color:black ;align-items: center ;}
+.footer p{color: antiquewhite;}
+
+
+
+.videos {
+    display: inline;
+}
+.prv{
+    padding: 50px
+}
+
+
+.r{
+    height: 350px;width: 350px;margin-left: 50px;
+}
+
+.R{margin-left: 5rem;}
+.CL{
+    margin-left: 50PX;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    overflow: hidden;
+    text-align: center;padding: 50px
+  }
+  
+  .slider {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
+  
+  
+  
+  button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    font-size: 24px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .prev {
+    left: 10px;
+  }
+  
+  .next {
+    right: 10px;
+  }
+  
